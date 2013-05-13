@@ -19,7 +19,7 @@ $config['base_url']	= "http://localhost/library/";
 |--------------------------------------------------------------------------
 |
 | Typically this will be your index.php file, unless you've renamed it to
-| something else. If you are using mod_rewrite to remove the page set this
+| something elseo. If you are using mod_rewrite to remove the page set this
 | variable so that it is blank.
 |
 */

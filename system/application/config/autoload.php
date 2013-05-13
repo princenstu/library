@@ -8,7 +8,7 @@
 | In order to keep the framework as light-weight as possible only the
 | absolute minimal resources are loaded by default. For example,
 | the database is not connected to automatically since no assumption
-| is made regarding whether you intend to use it.  This file lets
+| is made regarding whoether you intend to use it.  This file lets
 | you globally define which systems you would like loaded with every
 | request.
 |
