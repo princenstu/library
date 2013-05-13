@@ -1,0 +1,74 @@
+
+
+For activated the test account...
+
+1. Goto  -> https://developer.paypal.com/
+2. Login -> Username: mcqquiz@yahoo.com, password: 12345678
+3. Click -> "Test Account" link.
+4. Select -> mcqqui_1292911105_per@yahoo.com, this email .
+5. Click -> "Enter Sandbox Test Site".
+6. Login -> Username: mcqqui_1292913637_per@yahoo.com, password: mcqquiz123
+
+
+
+For test the transaction...
+
+1. Goto  -> http://www.mysoftheaven.net/ci/question/
+2. Click -> Click the membership button.
+3. just wait... it will automatic redirect to the paypal test site.
+4. Login -> Username: mcqqui_1292913637_per@yahoo.com, password: mcqquiz123
+5. click -> "Pay Now".
+
+Now you can check the mail, 
+1. Goto -> mail.yahoo.com
+2. Login -> Username: mcqquiz@yahoo.com, password: 12345678.
+3. Now you will find the confirmation mail...
+4. Click the confirmation link into the mail.
+5. Now you will find the membership form.
+6. filled the form.
+7. your account for your site will be activate.
+8. Now you can login to your site and play with the MCQ question.
+
+
+
+
+
+For activated the test account...
+
+1. Goto  -> https://developer.paypal.com/
+2. Login -> Username: mcqquiz@yahoo.com, password: 12345678
+3. Click -> "Test Account" link.
+4. Select -> mcqqui_1292911105_per@yahoo.com, this email .
+5. Click -> "Enter Sandbox Test Site".
+6. Login -> Username: mcqqui_1292913637_per@yahoo.com, password: mcqquiz123
+
+
+
+For test the transaction...
+
+1. Goto  -> http://www.mysoftheaven.net/ci/question/
+2. Click -> Click the membership button.
+3. just wait... it will automatic redirect to the paypal test site.
+4. Login -> Username: mcqqui_1292913637_per@yahoo.com, password: mcqquiz123
+5. click -> "Pay Now".
+
+Now you can check the mail, 
+1. Goto -> mail.yahoo.com
+2. Login -> Username: mcqquiz@yahoo.com, password: 12345678.
+3. Now you will find the confirmation mail...
+4. Click the confirmation link into the mail.
+5. Now you will find the membership form.
+6. filled the form.
+7. your account for your site will be activate.
+8. Now you can login to your site and play with the MCQ question.
+
+mcqqui_1292911181_biz@yahoo.com
+mcqquiz123
+
+
+mcqqui_1292913637_per@yahoo.com
+mcqquiz123
+
+
+
+books
